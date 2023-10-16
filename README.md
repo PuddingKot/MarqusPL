@@ -1,5 +1,5 @@
 [👋] Hello there! </br>
-[🐾] I'm MarqusPL and I have this github account for without a reason </br>
+[🐾] I'm MarqusPL and I have this github account without a reason </br>
 [🧩] Also I'm 16 years old furry with asperger syndrome... </br>
 [💻] Sometimes I coding games in GameMaker Studio </br>
 [📅] In the past I made some websites for me but I forgor how to coding in HTML5 and CSS </br>
